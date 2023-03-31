@@ -37,7 +37,7 @@ body {
   top: 0;
   height: 100vh;
   width: 0;
-  animation: background-animation 2s ease-in-out 4s 1 normal forwards;
+  animation: background-animation 1s ease-in-out 4s 1 normal forwards;
 }
 .background0 {
   left: 0%;
